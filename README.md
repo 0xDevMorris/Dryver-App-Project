@@ -1,5 +1,7 @@
 STILL BUILDING THIS PROJECT, MORE UPDATES AND CORRECTIONS WOULD BE ADDED!!!
 
+Had isues setting up my Google API billing address, so some features were not added, once that is sorted out they would be added.
+
 Dryver - Ride-Sharing Platform
 Dryver is a modern, responsive ride-sharing platform that allows users to book rides, track real-time locations, and estimate fares. The platform provides a smooth user experience similar to popular ride-sharing services, with a focus on user-friendly design and functionality.
 
