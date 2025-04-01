@@ -1,0 +1,20 @@
+.ride-history {
+  text-align: center;
+  padding: 40px;
+  background: #1e1e1e;
+  color: white;
+  height: 100vh;
+  margin-top: 50px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #333;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}

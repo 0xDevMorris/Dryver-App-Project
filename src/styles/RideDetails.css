@@ -1,0 +1,28 @@
+.ride-details {
+  text-align: center;
+  padding: 40px;
+  background: #1e1e1e;
+  color: white;
+  height: 100vh;
+}
+
+.ride-info {
+  background: #333;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.cancel-btn {
+  background-color: #ff3b30;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.cancel-btn:hover {
+  background-color: #d32f2f;
+}

@@ -1,0 +1,50 @@
+.why-dryver {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 50px auto;
+  padding: 20px;
+  gap: 30px;
+}
+
+.text-content {
+  flex: 1;
+}
+
+.text-content h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.text-content p {
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+}
+
+.text-content h3 {
+  font-size: 1.5rem;
+  margin-top: 15px;
+}
+
+.text-content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.text-content ul li {
+  font-size: 1rem;
+  margin: 5px 0;
+}
+
+.image-content {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.image-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
